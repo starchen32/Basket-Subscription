@@ -1,0 +1,12 @@
+{
+  "name": "macaca-reporter",
+  "distDir": "/Users/starchen/basket_subscription",
+  "reporterOptions": {
+    "reportJSONFilename": "index",
+    "processAlwaysExitWithZero": "true"
+  },
+  "globals": [],
+  "files": [
+    "/Users/starchen/basket_subscription/sample/twecpay.js"
+  ]
+}
